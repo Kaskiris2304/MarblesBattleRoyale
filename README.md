@@ -3,21 +3,21 @@ A multiplayer battle royale game built using Unity. Players control marbles in a
 
 # Launch the Game:
 
-Locate the MarblesBattleRoyale.exe file and double-click to launch the game.
+1. Locate the MarblesBattleRoyale.exe file and double-click to launch the game.
 
 # Creating a Lobby
 
-From the main menu, click on "Create Lobby".
+1. From the main menu, click on "Create Lobby".
 
-Enter a lobby name and select the desired player limit.
+2. Enter a lobby name and select the desired player limit.
 
-Click "Create" to start the lobby.
+3. Click "Create" to start the lobby.
 
 
 # Joining a Lobby
 
-From the main menu, click on "Join Lobby".
+1. From the main menu, click on "Join Lobby".
 
-Find the lobby created by the host.
+2. Find the lobby created by the host.
 
-Click "Join" to enter the game lobby.
+3. Click "Join" to enter the game lobby.
